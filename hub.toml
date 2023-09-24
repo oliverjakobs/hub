@@ -18,21 +18,21 @@ icon = 'icons/github.svg'
 link = 'https://studip.hochschule-trier.de/dispatch.php/start'
 icon = 'icons/studip.svg'
 
-[Discord]
-link = 'https://discord.com/app'
-icon = 'icons/discord.svg'
-
 [Proxer]
 link = 'https://proxer.me/'
 icon = 'icons/proxer.svg'
+
+["Google Keep"]
+link = 'https://keep.google.com/#home'
+icon = 'icons/google-keep.svg'
 
 [Liquipedia]
 link = 'https://liquipedia.net/dota2/Main_Page'
 icon = 'icons/liquipedia.svg'
 
-["Google Keep"]
-link = 'https://keep.google.com/#home'
-icon = 'icons/google-keep.svg'
+[Discord]
+link = 'https://discord.com/app'
+icon = 'icons/discord.svg'
 
 [ebay]
 link = 'https://www.ebay.de/'
