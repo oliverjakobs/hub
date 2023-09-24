@@ -1,0 +1,47 @@
+[twitch]
+link = 'https://www.twitch.tv/directory/game/Dota%202'
+icon = 'icons/twitch.svg'
+
+[YouTube]
+link = 'http://www.youtube.com'
+icon = 'icons/youtube.svg'
+
+[Twitter]
+link = 'https://twitter.com/home'
+icon = 'icons/twitter.svg'
+
+[GitHub]
+link = 'https://github.com/oliverjakobs'
+icon = 'icons/github.svg'
+
+["Stud.IP"]
+link = 'https://studip.hochschule-trier.de/dispatch.php/start'
+icon = 'icons/studip.svg'
+
+[Discord]
+link = 'https://discord.com/app'
+icon = 'icons/discord.svg'
+
+[Proxer]
+link = 'https://proxer.me/'
+icon = 'icons/proxer.svg'
+
+[Liquipedia]
+link = 'https://liquipedia.net/dota2/Main_Page'
+icon = 'icons/liquipedia.svg'
+
+["Google Keep"]
+link = 'https://keep.google.com/#home'
+icon = 'icons/google-keep.svg'
+
+[ebay]
+link = 'https://www.ebay.de/'
+icon = 'icons/ebay.svg'
+
+[Kleinanzeigen]
+link = 'https://www.kleinanzeigen.de/'
+icon = 'icons/kleinanzeigen.svg'
+
+[Whatsapp]
+link = 'https://web.whatsapp.com/'
+icon = 'icons/whatsapp.svg'
