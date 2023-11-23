@@ -3,7 +3,7 @@ link = 'https://www.twitch.tv/directory/game/Dota%202'
 icon = 'icons/twitch.svg'
 
 [YouTube]
-link = 'http://www.youtube.com'
+link = 'https://www.youtube.com'
 icon = 'icons/youtube.svg'
 
 [Twitter]
