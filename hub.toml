@@ -14,9 +14,9 @@ icon = 'icons/twitter.svg'
 link = 'https://github.com/oliverjakobs'
 icon = 'icons/github.svg'
 
-["Stud.IP"]
-link = 'https://studip.hochschule-trier.de/dispatch.php/start'
-icon = 'icons/studip.svg'
+[Bluesky]
+link = 'https://bsky.app/'
+icon = 'icons/bluesky.svg'
 
 [Proxer]
 link = 'https://proxer.me/'
